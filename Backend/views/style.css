@@ -1,0 +1,78 @@
+
+*{
+  padding: 0%;
+  margin: 0%;
+  color: aliceblue;
+   background-color: #191d28;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 3%;
+}
+.hod{
+    width: 28%;
+    padding-left: 70px;
+    font-size: 35px;
+}
+.select{
+  
+    text-align: center; 
+    display: flex;
+   flex-direction: row;
+} 
+.telegram{
+    padding-right: 70px;
+}
+#currency{
+   
+}
+#BTC{
+   margin-left: 30px;
+   margin-right: 30px;
+}
+.buy{
+
+}
+.circle{
+   width: 10%; 
+}
+
+.best{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 1.8%;
+}
+
+.value{
+    margin: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.val1,.val2,.val4,.val5{
+      font-size: 40px;
+}
+
+.val3{
+    font-size: 65px;
+}
+
+.average{
+    text-align: center;
+    font-size: 18px;
+}
+table{
+    width: 100%;
+    margin-top: 5%;
+}
+
+.table tr td{
+  text-align: center;
+  font-size: 22px;
+  
+}
